@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/richardrosenthal/CLionProjects/LocalHackDay2/main.cpp
+iostream
+-
+ctime
+-
+string
+-
+chrono
+-
+thread
+-
+
